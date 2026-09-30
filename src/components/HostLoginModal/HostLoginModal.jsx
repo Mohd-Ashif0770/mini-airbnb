@@ -61,7 +61,7 @@ export default function HostLoginModal({ isOpen, onClose }) {
         </button>
         <img
           className="m-auto w-12 mt-3 mb-4"
-          src="public\images\airbnb.png"
+          src="/images/airbnb.png"
           alt="Airbnb logo"
         />
         <h2 id="login-modal-title">Log in or sign up</h2>
@@ -106,7 +106,7 @@ export default function HostLoginModal({ isOpen, onClose }) {
             aria-label="Continue with Google"
           >
             <img
-              src="public\images\google-icon.png"
+              src="/images/google-icon.png"
               className="w-6"
               alt="Google"
             />
@@ -117,7 +117,7 @@ export default function HostLoginModal({ isOpen, onClose }) {
             aria-label="Continue with Apple"
           >
             <img
-              src="public\images\apple-black-logo.png"
+              src="/images/apple-black-logo.png"
               className="w-6"
               alt="Apple"
             />
