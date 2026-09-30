@@ -2,6 +2,8 @@
 
 A high-fidelity, pixel-perfect clone of an Airbnb property listing page, full-screen photo tour, and interactive single-photo Lightbox viewer. Built using **React 19**, **Vite**, **Tailwind CSS**, and **Lucide Icons** through an advanced **AI-assisted development workflow**.
 
+🌐 **Live Demo**: [https://mini-airbnb-kappa.vercel.app/](https://mini-airbnb-kappa.vercel.app/)
+
 ---
 
 ## 🌟 Features & Views
@@ -140,7 +142,7 @@ airbnb-clone/
 
 ## 📄 Deliverables & Documentation
 
-- **Architecture Diagram**: See [`architecture-diagram.pdf`](./architecture-diagram.pdf) for the high-level production marketplace architecture.
+- **Architecture Diagram**: See [`architecture-diagram.pdf`](./architecture-diagram.pdf) (visual PDF diagram), [`architecture-diagram.html`](./architecture-diagram.html), and [`ARCHITECTURE.md`](./ARCHITECTURE.md) for full architectural documentation.
 - **AI Prompt Log**: See [`PROMPTS.md`](./PROMPTS.md) for the complete sequence of prompts used during development.
 
 ---

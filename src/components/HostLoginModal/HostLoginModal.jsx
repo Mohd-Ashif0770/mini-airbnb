@@ -105,11 +105,7 @@ export default function HostLoginModal({ isOpen, onClose }) {
             type="button"
             aria-label="Continue with Google"
           >
-            <img
-              src="/images/google-icon.png"
-              className="w-6"
-              alt="Google"
-            />
+            <img src="/images/google-icon.png" className="w-6" alt="Google" />
           </button>
           <button
             className="login-social-button apple-button"
